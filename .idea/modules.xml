@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modulos-79-80main.iml" filepath="$PROJECT_DIR$/.idea/modulos-79-80main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos-79-80main/lpii/questao1/questao1.iml" filepath="$PROJECT_DIR$/modulos-79-80main/lpii/questao1/questao1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos-79-80main/lpii/questao10/questao10.iml" filepath="$PROJECT_DIR$/modulos-79-80main/lpii/questao10/questao10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos-79-80main/lpii/questao11/questao11.iml" filepath="$PROJECT_DIR$/modulos-79-80main/lpii/questao11/questao11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos-79-80main/lpii/questao2/questao2.iml" filepath="$PROJECT_DIR$/modulos-79-80main/lpii/questao2/questao2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos-79-80main/lpii/questao3/questao3.iml" filepath="$PROJECT_DIR$/modulos-79-80main/lpii/questao3/questao3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos-79-80main/lpii/questao4/questao4.iml" filepath="$PROJECT_DIR$/modulos-79-80main/lpii/questao4/questao4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos-79-80main/lpii/questao5/questao5.iml" filepath="$PROJECT_DIR$/modulos-79-80main/lpii/questao5/questao5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos-79-80main/lpii/questao6/questao6.iml" filepath="$PROJECT_DIR$/modulos-79-80main/lpii/questao6/questao6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos-79-80main/lpii/questao7/questao7.iml" filepath="$PROJECT_DIR$/modulos-79-80main/lpii/questao7/questao7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos-79-80main/lpii/questao8/questao8.iml" filepath="$PROJECT_DIR$/modulos-79-80main/lpii/questao8/questao8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos-79-80main/lpii/questao9/questao9.iml" filepath="$PROJECT_DIR$/modulos-79-80main/lpii/questao9/questao9.iml" />
+    </modules>
+  </component>
+</project>
